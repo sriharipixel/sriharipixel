@@ -1,7 +1,7 @@
 
 LeetCode Progress
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?9AkQUlQVXW&theme=dark&font=baloo)
+https://leetcode.card.workers.dev/?username=9AkQUlQVXW&theme=dark&font=baloo
 
 *📊 My Coding Journey:*
 - Solving problems daily
